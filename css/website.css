@@ -3,6 +3,8 @@ body{
     font-family: helvetica, Arial, sans-serif;
     font-size: 20px;
     line-height: 30px;
+    background-color: #F6EFEF;
+    
 }
 header{
    background-color:  lightblue; 
@@ -22,16 +24,17 @@ header h1{
 }
 
 header img{
-    border-radius: 150px;
+    border-radius: 50px;
     height: 150px;
-    border: 20px solid lavender;
-    width: 400px;
+    border: 15px solid lavender;
+    width: 500px;
 }
 
 main{
     max-width: 800px;
     padding: 0 20px;
     margin: 0 auto;
+    
 }
 
 main img{
@@ -42,9 +45,7 @@ h2{
     font-size: 30px;
 
 }
-p{
-    
-}
+
 a{
     color:lightcoral
 }
